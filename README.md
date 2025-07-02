@@ -2,7 +2,6 @@
 
 This repository contains the UI/UX tasks completed as part of my internship with **CodSoft**.
 
-## ✅ Task 1: Mobile App Signup Flow
 ## ✅ Task 1: Mobile App Signup Flow  
 - App Name: SnapFit  
 - Tool Used: Canva  
