@@ -6,7 +6,7 @@ This repository contains the UI/UX tasks completed as part of my internship with
 - App Name: SnapFit  
 - Tool Used: Canva  
 - Description: A clean, user-friendly mobile app signup interface designed with modern UI principles.  
-- File: [Click to view the PDF](1000036123 (1).pdf)
+- File: [Click to view the PDF] (PDF Reader_1000036123_1.pdf)
 
 ## ✅ Task 2: Email Template  
 - Purpose: Welcome email for new users of SnapFit  
