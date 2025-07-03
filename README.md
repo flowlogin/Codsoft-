@@ -16,7 +16,7 @@ This repository contains the UI/UX tasks completed as part of my internship with
 ## ✅ Task 3: Landing Page Design  
 - Purpose: Website landing page for SnapFit  
 - Tool Used: Canva  
-- File: [Click to view the PDF] (PDFReader_20250703_1137.pdf)
+- File: [Click to view the PDF](./PDFReader_20250703_1137.pdf)
 - 
 ## 📌 More tasks will be added soon...
 
